@@ -1,1 +1,15 @@
+title: Karen Gask
+description: >- # this means to ignore newlines until "baseurl:"
+  Hi, I'm Karen, a data scientist who likes having fun with data! I love using Python and R for my work.
+  
+  The majority of my work is not on GitHub but I do have a few projects here.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: gaskyk
+github_username:  gaskyk
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-feed
