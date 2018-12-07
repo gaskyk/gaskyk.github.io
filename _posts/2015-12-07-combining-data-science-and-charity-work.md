@@ -1,3 +1,6 @@
+---
+title: "Combining data science and charity work"
+---
 ## Summary
 
 [DataKind UK](http://www.datakind.org/chapters/datakind-uk/) is a
