@@ -10,6 +10,6 @@ github_username:  gaskyk
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
