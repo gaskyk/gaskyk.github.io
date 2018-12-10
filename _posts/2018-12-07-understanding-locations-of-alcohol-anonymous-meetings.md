@@ -31,7 +31,7 @@ Given that this didn't inform the location of AA meetings as much as I thought i
 
 ![Map]({{site.url}}/assets/aa_map.html)
 
-<iframe src="https://drive.google.com/file/d/1AWiyqK9h--4r1uemzA9V3gON2--VPtNK/preview" width="640" height="480"></iframe>
+<iframe src="{{% include aa_map.html %}}" width="640" height="480"></iframe>
 
 It's clearer to see here that the number of AA meetings in an area appears to be strongly correlated with population density. In other words, there are more meetings per head of population in towns and cities. That makes sense as some people want to go to meetings before or after work, which may not necessarily be near where they live.
 
