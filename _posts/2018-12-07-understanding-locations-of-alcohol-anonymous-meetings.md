@@ -29,7 +29,7 @@ Given that this didn't inform the location of AA meetings as much as I thought i
 
 ## Where are AA meetings?
 
-![Map]({{site.url}}/assets/aa_map.html)
+![Map]({{% include aa_map.html %}})
 
 <iframe src="{{% include aa_map.html %}}" width="640" height="480"></iframe>
 
