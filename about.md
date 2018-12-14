@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+United Nations Economic Council for Africa conference in Addis Ababa, Ethiopia: Data science for official statistics ([source](https://www.uneca.org/sites/default/files/uploaded-documents/ACS/StatCom-Africa-VI/data_science_for_official_statistics.pdf))
+
 Royal Statistical Society 2018 conference presentation: Statistics on jobs, businesses and people - where data science is adding value ([source](https://github.com/ONSBigData/ONSBigData.github.io/blob/master/_papers/RSS_2018_K_Gask.pdf))
 
 Identifying caravan homes using Zoopla data ([source](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno11identifyingcaravanhomesinzoopladatajune2017) and [blog post](https://digitalblog.ons.gov.uk/2017/06/21/happy-campers-using-machine-learning-to-identify-caravans-in-zoopla-data/))
