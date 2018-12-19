@@ -12,3 +12,14 @@ remote_theme: "mmistakes/minimal-mistakes@4.14.1"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+# For posts
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      share: true
