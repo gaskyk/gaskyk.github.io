@@ -29,6 +29,16 @@ defaults:
       author_profile: true
       read_time: true
 
+# For about page
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
 # Add author
 author:
   name: "Karen Gask"
