@@ -29,7 +29,6 @@ defaults:
       author_profile: true
       read_time: true
 
-# For pages
 defaults:
   # _pages
   - scope:
