@@ -28,16 +28,12 @@ defaults:
       excerpt: ""
       author_profile: true
       read_time: true
-
-# For about page
-defaults:
   # _pages
   - scope:
       path: ""
       type: pages
     values:
-      layout: single_for_pages
-      author_profile: true
+      layout: single
 
 # Add author
 author:
