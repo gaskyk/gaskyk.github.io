@@ -28,7 +28,9 @@ defaults:
       excerpt: ""
       author_profile: true
       read_time: true
-      
+
+# For pages
+include: ["_pages"]
 defaults:
   # _pages
   - scope:
