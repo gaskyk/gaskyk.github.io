@@ -36,7 +36,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: single_for_pages
       author_profile: true
 
 # Add author
