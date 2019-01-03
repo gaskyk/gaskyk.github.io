@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: single
 title:  "What I have learned from web scraping the Coast website"
 date:   2017-12-14 08:38:07 +0000
-categories: jekyll update
 ---
 ## Overview
 
