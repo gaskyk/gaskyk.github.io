@@ -1,5 +1,7 @@
 ---
+layout: single
 title: "Combining data science and charity work"
+date:   2015-12-07 08:38:07 +0000
 ---
 ## Summary
 
