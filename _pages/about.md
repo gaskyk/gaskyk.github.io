@@ -1,5 +1,5 @@
 ---
-layout: single_for_pages
+layout: single
 title: Publications
 permalink: /publications/
 ---
