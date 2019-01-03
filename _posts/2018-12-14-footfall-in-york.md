@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Footfall in York city centre"
 date:   2018-12-14 08:38:07 +0000
 ---
