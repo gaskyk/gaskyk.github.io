@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: single
 title:  "Analysing my cycle rides and runs on Strava"
 date:   2018-02-20 08:38:07 +0000
-categories: jekyll update
 ---
 ## Introduction
 
