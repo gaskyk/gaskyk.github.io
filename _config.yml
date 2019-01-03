@@ -28,6 +28,8 @@ defaults:
       excerpt: ""
       author_profile: true
       read_time: true
+      
+defaults:
   # _pages
   - scope:
       path: ""
