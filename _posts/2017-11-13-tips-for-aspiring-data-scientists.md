@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: single
 title:  "Tips for aspiring data scientists"
 date:   2017-11-13 08:38:07 +0000
-categories: jekyll update
 ---
 There are often tales in the press discussing the need for data
 scientists in business, government and the voluntary sector, and the
