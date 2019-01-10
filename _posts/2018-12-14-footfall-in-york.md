@@ -21,7 +21,7 @@ It is unsurprising that Saturday is the busiest day of the week in York. It can 
 
 ## Footfall started decreasing in 2013 but has risen more recently
 
-![Average monthly footfall between 2009 and 2018]({{site.url}}/assets/Footfall_Average_yearly_monthly.png)
+![Average monthly footfall between 2009 and 2018]({{site.url}}/assets/Footfall_Average_year_monthly.png)
 
 It is interesting to note the temporal pattern in monthly footfall, with expected increases towards the end of the year peak in Christmas shopping. We can also see that footfall began decreasing in 2013 with an upturn in recent years. I wondered whether there was a change in the location of footfall cameras which might account for these changes but this doesn&#39;t appear to be the case given the graph below.
 
