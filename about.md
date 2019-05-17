@@ -8,7 +8,7 @@ permalink: /projects/
 ## Projects
 
 I have worked on a wide variety of projects in my time, but more recent ones include:
-- Using PySpark on Cloudera's distributed computing platform for international migration. For example, I am working on a project to use cluster analysis to analyse different migration patterns. This work is not available in a public repository
+- Using PySpark on Cloudera's distributed computing platform for international migration. For example, I worked on a project to use cluster analysis to analyse different migration patterns. This work is not available in a public repository
 - Using machine learning in Python to parse then match addresses. A [report](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsworkingpaperseriesno17usingdatasciencefortheaddressmatchingservice) and [code](https://github.com/ONSdigital/address-index-data) are available
 - Using Natural Language Processing and machine learning to understand areas containing caravan homes from descriptions of properties on the [Zoopla website](https://www.zoopla.co.uk/). A [report](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesno11identifyingcaravanhomesinzoopladatajune2017), [blog post](https://digitalblog.ons.gov.uk/2017/06/21/happy-campers-using-machine-learning-to-identify-caravans-in-zoopla-data/) and [code](https://github.com/ONSBigData/housing-websites) are available
 
