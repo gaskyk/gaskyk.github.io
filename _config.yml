@@ -1,4 +1,4 @@
-title: Karen Gask
+title: Karen (Gask) Walker
 description: >- # this means to ignore newlines until "baseurl:"
   Data scientist
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,7 +31,7 @@ defaults:
 
 # Add author
 author:
-  name: "Karen Gask"
+  name: "Karen (Gask) Walker"
   #avatar: "/assets/images/bio-photo.jpg"
   bio: "Data scientist"
   links:
