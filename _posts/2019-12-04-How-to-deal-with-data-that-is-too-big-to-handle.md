@@ -40,25 +40,19 @@ Let us presume we have a CSV table of names where we need to count the number of
 
 ```
 # Load packages
-
 from pyspark.sql import SparkSession
-
 from pyspark import SparkContext
 
 # Connect to the local spark instance using as many threads as on your machine
-
 spark = SparkSession.builder.master("local[*]").appName("test").getOrCreate()
 
 # Read in a CSV
-
 my_data = spark.read.csv("/path/to/csv/my_data.csv", header=True)
 
 # View first five rows of CSV
-
 my_data.head(5)
 
 # Count the number of instances of each name and show this summary table in the console
-
 my_data.groupBy("Name").count().show()
 ```
 
@@ -66,20 +60,15 @@ my_data.groupBy("Name").count().show()
 
 ```
 # Import package
-
 library(sparklyr)
 
 # Connect to the local spark instance
-
 sc <- spark_connect(master = "local")
 
 # Read in a CSV
-
 my_data <- spark_read_csv(sc, path = "/path/to/csv/my_data.csv", header = TRUE)
 
 # Count the number of instances of each name and show this summary table
-
 # Note that a lot of manipulation uses dplyr syntax
-
 my_data %>% group_by(Name) %>% View()
 ```
