@@ -18,7 +18,11 @@ The lines are split, mapped to a list counting the instances of words, then redu
 
 The Python package `dask` and R package `parallel` have been developed to deal with this situation. They are lightweight because they only involve installing the packages themselves. However, these packages lack some of the features we may want to use such as machine learning.
 
-When people have these out of memory problems, Spark is a more popular choice than these packages. It builds on the map reduce framework and can be programmed using Python (using the `pyspark` package) or R (using the `sparklyr` package). It is heavier since Spark, the programming languages Scala and Java also need to be installed (instructions for installation on Windows [here](https://github.com/gaskyk/install_spark_on_windows/blob/master/Installing_spark_on_windows.md)). However, once installed, it ran twice as fast as `dask` for importing data, and much quicker for other operations. Spark also supports a much wider range of functionality than the `dask` and `parallel` packages.
+When people have these out of memory problems, Spark is a more popular choice than these packages. It builds on the map reduce framework and can be programmed using Python (using the `pyspark` package) or R (using the `sparklyr` package).
+
+Some people use Spark on large clusters of computers, but you can also install and use Spark locally on your laptop to analyse that 150GB file. To do this you will also need to install the programming languages Scala and Java, and add these (and Spark) to the environment variables. Instructions for how to do all this on Windows is [here](https://github.com/gaskyk/install_spark_on_windows/blob/master/Installing_spark_on_windows.md)).
+
+However, once installed, it ran twice as fast as `dask` for importing data, and much quicker for other operations. Spark also supports a much wider range of functionality than the `dask` and `parallel` packages.
 
 ## Is Spark best used through R or Python?
 
