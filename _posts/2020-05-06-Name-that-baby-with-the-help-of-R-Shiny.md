@@ -57,6 +57,8 @@ We wanted to be able to see the information at any time, including when we are n
 
 And this is the result! [https://gaskyk.shinyapps.io/baby\_names/](https://gaskyk.shinyapps.io/baby_names/)
 
+<embed src="https://gaskyk.shinyapps.io/baby_names/" width="640" height="480">
+
 We are looking forward to browsing this in the evening to help narrow down our choices!
 
 ## Get the code
