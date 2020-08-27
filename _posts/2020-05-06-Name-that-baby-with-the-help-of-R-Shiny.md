@@ -10,7 +10,7 @@ I&#39;m pregnant and one of the fun things to do during pregnancy is to think ab
 
 For some of the apps, it&#39;s unclear what data they use. The most comprehensive baby name data in England and Wales comes from the [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/babynamesenglandandwales/previousReleases) in what is their most popular annual statistical product. As well as analysing the most popular boys and girls names, they also look at the [influence of popular culture on the naming of babies](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/10popcultureinfluencesonbabynamesgameofthronesmarvelfrozenandmore/2015-08-17).
 
-I have downloaded their 2018 [baby girl names data](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls) which includes the first names of baby girls born in 2018, where those counts are three or more.
+I have downloaded their 2019 [baby girl names data](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls) which includes the first names of baby girls born in 2019, where those counts are three or more.
 
 The data, as downloaded, is an excel file with various sheets showing different cuts of the data. I have used Table 6, showing all the names. Currently the data is shown in ranked order, with the most popular name first, but for my purpose I would like to show the data differently.
 
@@ -33,9 +33,9 @@ Here is part of that code:
 
 ```
 # Read in baby girl name data
-# 2018 data currently used
+# 2019 data currently used
 # Source: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls
-names <- readr::read_csv("babygirlnames2018.csv")
+names <- readr::read_csv("babygirlnames2019.csv")
 
 # Create column for initial
 names <- names %>%
@@ -65,3 +65,5 @@ We are looking forward to browsing this in the evening to help narrow down our c
 ## Get the code
 
 My code is available on [Github](https://github.com/gaskyk/baby_names) and I always welcome comments or suggestions for improvements.
+
+[Post updated on 27 August 2020 as a result of publication of the 2019 data]
