@@ -17,6 +17,8 @@ I have worked on a wide variety of projects in my time, but more recent ones inc
 
 Synthetic data: Unlocking the power of data and skills for machine learning. (A [blog post](https://dataingovernment.blog.gov.uk/2020/08/20/synthetic-data-unlocking-the-power-of-data-and-skills-for-machine-learning/) on the [Data in Government blog](https://dataingovernment.blog.gov.uk/)) [2020]
 
+Using data science for the address matching service ([report](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsworkingpaperseriesno17usingdatasciencefortheaddressmatchingservice)) [2019]
+
 United Nations Economic Council for Africa conference in Addis Ababa, Ethiopia: Data science for official statistics ([paper](https://www.uneca.org/sites/default/files/uploaded-documents/ACS/StatCom-Africa-VI/data_science_for_official_statistics.pdf)) [2018]
 
 Royal Statistical Society 2018 conference presentation: Statistics on jobs, businesses and people - where data science is adding value ([slides](https://github.com/ONSBigData/ONSBigData.github.io/blob/master/_papers/RSS_2018_K_Gask.pdf) and [video of presentation](https://www.youtube.com/watch?v=iEsNAEhpsqk)) [2018]
