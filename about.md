@@ -15,16 +15,16 @@ I have worked on a wide variety of projects in my time, but more recent ones inc
 
 ## Publications
 
-Synthetic data: Unlocking the power of data and skills for machine learning. (A [blog post](https://dataingovernment.blog.gov.uk/2020/08/20/synthetic-data-unlocking-the-power-of-data-and-skills-for-machine-learning/) on the [Data in Government blog](https://dataingovernment.blog.gov.uk/))
+Synthetic data: Unlocking the power of data and skills for machine learning. (A [blog post](https://dataingovernment.blog.gov.uk/2020/08/20/synthetic-data-unlocking-the-power-of-data-and-skills-for-machine-learning/) on the [Data in Government blog](https://dataingovernment.blog.gov.uk/)) [2020]
 
-United Nations Economic Council for Africa conference in Addis Ababa, Ethiopia: Data science for official statistics ([paper](https://www.uneca.org/sites/default/files/uploaded-documents/ACS/StatCom-Africa-VI/data_science_for_official_statistics.pdf))
+United Nations Economic Council for Africa conference in Addis Ababa, Ethiopia: Data science for official statistics ([paper](https://www.uneca.org/sites/default/files/uploaded-documents/ACS/StatCom-Africa-VI/data_science_for_official_statistics.pdf)) [2018]
 
-Royal Statistical Society 2018 conference presentation: Statistics on jobs, businesses and people - where data science is adding value ([slides](https://github.com/ONSBigData/ONSBigData.github.io/blob/master/_papers/RSS_2018_K_Gask.pdf) and [video of presentation](https://www.youtube.com/watch?v=iEsNAEhpsqk))
+Royal Statistical Society 2018 conference presentation: Statistics on jobs, businesses and people - where data science is adding value ([slides](https://github.com/ONSBigData/ONSBigData.github.io/blob/master/_papers/RSS_2018_K_Gask.pdf) and [video of presentation](https://www.youtube.com/watch?v=iEsNAEhpsqk)) [2018]
 
-Modelling sample data from smart electricity meters for official statistics ([report](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/modellingsampledatafromsmarttypeelectricitymeterstoassesspotentialwithinofficialstatistics_tcm77-408756(1).pdf))
+Using Natural Language Processing in official statistics ([blog post](https://digitalblog.ons.gov.uk/2016/11/07/the-emotional-side-of-data/)) [2016]
 
-Analysing low electricity consumption ([report](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/analysinglowelectricityconsumptionusingdeccdata_tcm77-418326.pdf))
+Modelling sample data from smart electricity meters for official statistics ([report](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/modellingsampledatafromsmarttypeelectricitymeterstoassesspotentialwithinofficialstatistics_tcm77-408756(1).pdf)) [2015]
 
-Comparing travel flows between 2011 Census and Oyster card data ([report](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/comparingtravelflowsbetween2011censusandoystercarddata_tcm77-408826(1).pdf))
+Analysing low electricity consumption ([report](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/analysinglowelectricityconsumptionusingdeccdata_tcm77-418326.pdf)) [2015]
 
-Using Natural Language Processing in official statistics ([blog post](https://digitalblog.ons.gov.uk/2016/11/07/the-emotional-side-of-data/))
+Comparing travel flows between 2011 Census and Oyster card data ([report](https://www.ons.gov.uk/file?uri=/aboutus/whatwedo/programmesandprojects/theonsbigdataproject/comparingtravelflowsbetween2011censusandoystercarddata_tcm77-408826(1).pdf)) [2015]
