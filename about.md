@@ -33,7 +33,7 @@ I have discussed my work to journalists from national newspapers, for example ou
 
 ## Technical projects
 
-I have worked on a wide variety of projects in my time, but recent, more technical data science ones include:
+I have worked on a wide variety of data science projects in my time, but more recent ones include:
 - Using Natural Language Processing and clustering to link different reports about defects, enabling engineers to better prioritise fixing the most important defects
 - Using PySpark on Cloudera's distributed computing platform for international migration. For example, I worked on a project to use cluster analysis to analyse different migration patterns. This work is not available in a public repository
 - Using machine learning in Python to parse then match addresses. A [report](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsworkingpaperseriesno17usingdatasciencefortheaddressmatchingservice) and [code](https://github.com/ONSdigital/address-index-data) are available
