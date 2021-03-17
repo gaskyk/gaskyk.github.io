@@ -12,8 +12,8 @@ First of all I would like to say that I respect the work and skills of those who
 
 One of the main problems I see with dashboards is an assumption that those who will use them have reasonably high numeracy skills, and are as
 adept as the analyst creating the dashboard at drilling down, understanding and interpreting the information found in them. Analysts
-and data scientists have specialist skills which often aren't shared with the general population. According to [*National
-Numeracy*](https://www.nationalnumeracy.org.uk/about/what-issue), nearly half of the population have primary school level maths skills, and 4 in
+and data scientists have specialist skills which often aren't shared with the general population. According to [National
+Numeracy](https://www.nationalnumeracy.org.uk/about/what-issue), nearly half of the population have primary school level maths skills, and 4 in
 5 adults have a low level of numeracy. This means that they may not be able to compare the costs of products and services for example.
 
 Think your customers are different? Think again. I know statisticians who have had to calculate simple percentages for MPs and journalists
@@ -43,5 +43,5 @@ understand nuances.
 
 ## Best practice dashboards
 
-Finally, if you still decide that a dashboard is the best answer, the Government Statistical Service has produced [*ten tips for designing
-dashboards*](https://gss.civilservice.gov.uk/policy-store/top-tips-for-designing-dashboards/).
+Finally, if you still decide that a dashboard is the best answer, the Government Statistical Service has produced [ten tips for designing
+dashboards](https://gss.civilservice.gov.uk/policy-store/top-tips-for-designing-dashboards/).
