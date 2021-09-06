@@ -50,7 +50,7 @@ We don&#39;t expect everyone to have experience in all of these areas, but as so
 - Use the space in the application given to you. It&#39;s surprisingly common to see a section about skills and experience containing only about three sentences, and it&#39;s nearly impossible to understand the breadth and depth of someone&#39;s experience from that.
 - Please spell out acronyms. If you don&#39;t it can lead me to think your example is quite different to what you intended or what you think is obvious!
 - Check spelling. It sounds obvious but a surprising number of candidates don&#39;t.
-- Don&#39;t just list tools and programming languages you&#39;ve used. Explain what have you done with these, with who and how.
+- Don&#39;t just list tools and programming languages you&#39;ve used. Explain what you have done with these, with who and how.
 - Avoid general statements such as &quot;I&#39;m a good team player&quot; or &quot;I&#39;m well suited for this role&quot;. They don&#39;t add much about you as a person or distinguish you from others.
 - Use &quot;I&quot; rather than &quot;we&quot; as someone sifting or interviewing needs to consider you as a candidate and not your team.
 
