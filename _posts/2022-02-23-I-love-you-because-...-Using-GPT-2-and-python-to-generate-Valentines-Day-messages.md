@@ -21,11 +21,11 @@ You need PyTorch to be installed first by going to the [PyTorch website](https:/
 
 The [Hugging Face transformers package](https://huggingface.co/docs/transformers/index) provides the pre-trained GPT-2 model and an intuitive Python package for it. To install transformers, run the following in the command line:
 
-	Pip install transformers
+	pip install transformers
 
 Then in Python run
 
-	From transformers import pipeline
+	from transformers import pipeline
 
 Pipeline takes the complexity away from the tasks at hand.
 
