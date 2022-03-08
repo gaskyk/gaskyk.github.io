@@ -7,6 +7,8 @@ permalink: /my_work/
 
 ## Publications
 
+My biography on the [Women in Data](https://womenindata.co.uk/dstl/) website [2022]
+
 Synthetic data: Unlocking the power of data and skills for machine learning. (A [blog post](https://dataingovernment.blog.gov.uk/2020/08/20/synthetic-data-unlocking-the-power-of-data-and-skills-for-machine-learning/) on the [Data in Government blog](https://dataingovernment.blog.gov.uk/)) [2020]
 
 Press coverage of the above synthetic data work ([Dstl creates framework to assess synthetic data types](https://www.ukauthority.com/articles/dstl-creates-framework-to-assess-synthetic-data-types/)) [2020]
