@@ -5,7 +5,7 @@ date:   2021-09-06 08:38:07 +0000
 ---
 
 
-I&#39;m a data scientist for a UK government department, and have been involved in a number of recruitment campaigns over the years, so have been on both sides of the fence both as a candidate and a recruiter. As a result I have some tips on how to make an application for a data science position at any level.
+I&#39;m a data scientist for a UK government department, and have been involved in a number of recruitment campaigns over the years, so have been on both sides of the fence as a candidate and a recruiter. As a result I have some tips on how to make an application for a data science position at any level.
 
 ## Use the STAR method
 
