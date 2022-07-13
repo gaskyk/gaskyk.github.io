@@ -23,9 +23,9 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: "posts"
     values:
-      layout: single
+      layout: "single"
       excerpt: ""
       author_profile: true
       show_date: true
