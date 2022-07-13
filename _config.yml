@@ -27,6 +27,7 @@ defaults:
       layout: single
       excerpt: ""
       author_profile: true
+      show_date: true
       read_time: true
 
 # Add author
