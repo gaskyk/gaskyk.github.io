@@ -17,6 +17,7 @@ plugins:
 # For posts
 paginate: 20 
 paginate_path: /recent/page:num/
+date_format: "%-d %B %Y"
 
 defaults:
   # _posts
@@ -28,7 +29,6 @@ defaults:
       excerpt: ""
       author_profile: true
       show_date: true
-      date_format: "%d %B %Y"
       read_time: true
 
 # Add author
