@@ -25,7 +25,7 @@ On day 23 I called the [NCT breastfeeding helpline](https://www.nct.org.uk/baby-
 
 ## Charting all my feeds
 
-**After three months a pattern in feeding times emerges**
+**After two months a pattern in feeding times emerges**
 
 ![All feeds graphed]({{site.url}}/assets/All_feeds_graphed.png)
 
