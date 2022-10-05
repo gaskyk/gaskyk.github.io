@@ -15,7 +15,7 @@ plugins:
   - jekyll-include-cache
 
 # For posts
-paginate: 20 
+paginate: 30 
 paginate_path: /recent/page:num/
 date_format: "%-d %B %Y"
 
