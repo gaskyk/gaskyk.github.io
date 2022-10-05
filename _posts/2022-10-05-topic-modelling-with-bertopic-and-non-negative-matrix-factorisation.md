@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Topic modelling with BERTopic and non-negative matrix factorisation"
+title:  "Topic modelling with BERTopic and non negative matrix factorisation"
 date:   2022-10-05 08:38:07 +0000
 ---
 
