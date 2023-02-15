@@ -7,6 +7,8 @@ permalink: /my_work/
 
 ## Publications
 
+Accreditation as an Advanced Data Science Professional from the [Alliance for Data Science Professionals](https://alliancefordatascienceprofessionals.com/) / [Royal Statistical Society](https://rss.org.uk/membership/professional-development/advanced-data-science-professional/) [2023]
+
 My biography on the [Women in Data](https://womenindata.co.uk/dstl/) website [2022]
 
 Synthetic data: Unlocking the power of data and skills for machine learning. (A [blog post](https://dataingovernment.blog.gov.uk/2020/08/20/synthetic-data-unlocking-the-power-of-data-and-skills-for-machine-learning/) on the [Data in Government blog](https://dataingovernment.blog.gov.uk/)) [2020]
