@@ -5,9 +5,12 @@ title: My work
 permalink: /my_work/
 ---
 
-## Publications
+## Achievements
 
 Accreditation as an Advanced Data Science Professional from the [Alliance for Data Science Professionals](https://alliancefordatascienceprofessionals.com/) / [Royal Statistical Society](https://rss.org.uk/membership/professional-development/advanced-data-science-professional/) [2023]
+
+
+## Publications
 
 My biography on the [Women in Data](https://womenindata.co.uk/dstl/) website [2022]
 
