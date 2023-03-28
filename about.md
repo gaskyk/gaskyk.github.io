@@ -37,7 +37,7 @@ Comparing travel flows between 2011 Census and Oyster card data ([report](https:
 
 I have been interviewed regularly on national and local radio explaining my work, including on [BBC Radio 5 Live](https://drive.google.com/file/d/1jTxdoqJD7gbnMiRn7f57WxHbuUTBVBNh/view?usp=sharing) and BBC Radio 2. I was also interviewed on the [BBC news channel](https://www.bbc.co.uk/news/av/uk-25836232) about young adults living with their parents.
 
-I have discussed my work to journalists from national newspapers, for example outlining the factors which lead to couples splitting up with [Men's Health magazine]({{site.url}}{{site.baseurl}}/assets/Should_you_marry_her.pdf).
+I have discussed my work to journalists from national newspapers, for example outlining the factors which lead to couples splitting up with [Men's Health magazine](https://gaskyk.github.io/assets/Should_you_marry_her.pdf).
 
 
 ## Technical projects
