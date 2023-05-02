@@ -18,28 +18,28 @@ You can apply for ADSP if you meet all of the following criteria:
 - Can provide at least two years' experience of continuing professional development (CPD)
 - Can meet the requirements below.
 
-There are five skill areas listed in the standards, and to gain accreditation, deep skills must be demonstrated in three (including E) and general skills demonstrated in the other two. Definitions of "deep" and "general" skills are provided. The five skill areas are:
+There are five skill areas listed in the standards, and to gain accreditation, deep skills must be demonstrated in three (including Evaluation and Reflection) and general skills demonstrated in the other two. Definitions of "deep" and "general" skills are provided. The five skill areas are:
 
-A. Data privacy and stewardship
-    1. Ensuring the protection of personal and sensitive data
-    2. Managing sensitive data
-    3. Data stewardship and standards
-B. Definition, acquisition, engineering, architecture, storage and curation
-    1. Data collection and management
-    2. Data engineering
-    3. Deployment
-C. Problem definition and communication with stakeholders
-    1. Problem definition
-    2. Relationship management
-D. Problem solving, analysis, statistical modelling, visualisation
-    1. Identifying and applying technical solutions and project management approaches
-    2. Data preparation and feature modelling
-    3. Data Analysis and model building
-E. Evaluation and Reflection (cross-cutting consideration to be evidenced throughout)
-    1. Project evaluation
-    2. Ethical behaviour
-    3. Sustainability and best practices
-    4. Reflective practice and ongoing development
+1. Data privacy and stewardship
+    - Ensuring the protection of personal and sensitive data
+    - Managing sensitive data
+    - Data stewardship and standards
+2. Definition, acquisition, engineering, architecture, storage and curation
+    - Data collection and management
+    - Data engineering
+    - Deployment
+3. Problem definition and communication with stakeholders
+    - Problem definition
+    - Relationship management
+4. Problem solving, analysis, statistical modelling, visualisation
+    - Identifying and applying technical solutions and project management approaches
+    - Data preparation and feature modelling
+    - Data Analysis and model building
+5. Evaluation and Reflection (cross-cutting consideration to be evidenced throughout)
+    - Project evaluation
+    - Ethical behaviour
+    - Sustainability and best practices
+    - Reflective practice and ongoing development
 
 In addition, you need to discuss ethics and efficacy throughout the application and as an ADSP you need to demonstrate the following level of responsibility:
 
@@ -50,9 +50,9 @@ Wow, that's a LOT to have to demonstrate!
 
 ## My approach
 
-Applications are made through individual professional bodies, which in my case was the [Royal Statistical Society (RSS)](https://rss.org.uk/membership/professional-development/advanced-data-science-professional/). I decided that I would demonstrate general experience in skill areas A and B, and deep experience in C, D and E. Once I started the application it became apparent that having deep experience in section D was also a requirement of the RSS (so worth noting if you're applying through them).
+Applications are made through individual professional bodies, which in my case was the [Royal Statistical Society (RSS)](https://rss.org.uk/membership/professional-development/advanced-data-science-professional/). I decided that I would demonstrate general experience in skill areas 1 and 2, and deep experience in 3, 4 and 5. Once I started the application it became apparent that having deep experience in section 4 was also a requirement of the RSS (so worth noting if you're applying through them).
 
-I chose one example from my work for each of the deep skill areas C, D and E. As my experience was lighter for skill areas A and B I chose a few smaller examples for each.
+I chose one example from my work for each of the deep skill areas 3, 4 and 5. As my experience was lighter for skill areas 1 and 2 I chose a few smaller examples for each.
 
 For each skill area I then tried to ensure that most points for that skill area were covered, that I was also covering ethics and efficacy, and that it demonstrated the appropriate level of responsibility. However I didn't try to meet all the criteria as I took heart from the sentence in the standards which reads "it is not essential that an applicant meets all the criteria at the higher level, but that on balance, the totality of their evidence for each section meets the required level".
 
