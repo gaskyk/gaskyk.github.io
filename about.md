@@ -12,6 +12,8 @@ Accreditation as an Advanced Data Science Professional from the [Alliance for Da
 
 ## Publications
 
+My career story on the [National Careers Service](https://x.com/NationalCareers/status/1766133288714784818?t=yF4irZrsq9-rqcqbrQleCA&s=09) social media as part of National Careers Week / British Science Week / International Women's Day on 8 March [2024]
+
 My career story on the [National Careers Service](https://nationalcareers.service.gov.uk/job-profiles/data-scientist) website [2023]
 
 My biography on the [Women in Data](https://womenindata.co.uk/dstl/) website [2022]
