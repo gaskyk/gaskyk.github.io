@@ -39,7 +39,7 @@ Comparing travel flows between 2011 Census and Oyster card data ([report](https:
 
 ## Media interviews
 
-The Chair of the [Alliance for Data Science Professionals](https://alliancefordatascienceprofessionals.com/) interviewed me about my accreditation in [Mathematics Today](https://gaskyk.github.io/assets/IMA_interview.jpg) [2024]
+The Chair of the [Alliance for Data Science Professionals](https://alliancefordatascienceprofessionals.com/) interviewed me about my accreditation in [Mathematics Today](https://ima.org.uk/24263/a-data-ahem-with-destiny/) [2024]
 
 I have been interviewed regularly on national and local radio explaining my work, including on [BBC Radio 5 Live](https://drive.google.com/file/d/1jTxdoqJD7gbnMiRn7f57WxHbuUTBVBNh/view?usp=sharing) and BBC Radio 2. I was also interviewed on the [BBC news channel](https://www.bbc.co.uk/news/av/uk-25836232) about young adults living with their parents.
 
