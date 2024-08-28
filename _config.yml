@@ -37,9 +37,6 @@ author:
   avatar: "/assets/Headshot-2021-800px.jpg"
   bio: "Data scientist"
   links:
-    - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
-      url: "https://bsky.app/profile/gaskyk.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gaskyk"
