@@ -34,7 +34,7 @@ defaults:
 # Add author
 author:
   name: "Karen (Gask) Walker"
-  #avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/Headshot-2021-800px.jpg"
   bio: "Data scientist"
   links:
     - label: "Bluesky"
