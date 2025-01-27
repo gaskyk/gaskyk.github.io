@@ -7,6 +7,8 @@ permalink: /my_work/
 
 ## Achievements
 
+Winner of the "innovative methods" award at the [Analysis in Government Awards](https://analysisfunction.civilservice.gov.uk/news/winners-of-the-5th-analysis-in-government-awards/#innovative-methods-award-winner) for "Innovative horizon scanning identifies the science and technology of the future" [2025]
+
 Accreditation as an Advanced Data Science Professional from the [Alliance for Data Science Professionals](https://alliancefordatascienceprofessionals.com/) / [Royal Statistical Society](https://rss.org.uk/membership/professional-development/advanced-data-science-professional/) [2023]
 
 
