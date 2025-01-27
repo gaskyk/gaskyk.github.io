@@ -46,6 +46,3 @@ author:
     - label: "Bluesky"
       icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/gaskyk.bsky.social"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/gaskyk"
